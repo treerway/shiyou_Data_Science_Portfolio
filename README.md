@@ -7,6 +7,7 @@
 
 ![](/images/sf_p1.png)
 
+
 # [Project 2: Dallas Child Poverty Analysis With Regression Approach](https://github.com/treerway/DallasPoverty/blob/master/%5BCPAL%5D%20Group%204%269%20Final%20Python%20Code.ipynb)
 * This project aims at identifying indicators that would represent the level to which family plays a role in child poverty in a given census tract. We aim at creating a score for all census tracts in Dallas. This score would tell us how well the census tract is doing in terms of family.
 * Generally, we expand our indicator from only one to five comprehensive indicators
