@@ -28,6 +28,6 @@
 * The team are interested in predicting the populuarity of every single movie to figure out some ways to improve the watching times.
 * The best model we developed is random forest. According to the different metrics, the R-sqaure is 0.51
 * Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
-* The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have
+* The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have the below plot 
 
-![](/images/plot_final.png)![](/images/google2.png)
+![](/images/plot_final.png)
