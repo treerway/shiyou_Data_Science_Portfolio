@@ -30,4 +30,4 @@
 * Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
 * The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have
 
-![](/images/plot_final.png)
+![](/images/plot_final.png) ![](/images/Google.png)
