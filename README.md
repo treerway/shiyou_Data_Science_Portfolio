@@ -22,3 +22,12 @@
 * we use roc-auc score as the metrics to evaluate different model
 
 ![](/images/bak_cam.png)
+
+# [Project 4: Amazon Prime Videos Prediction](https://github.com/treerway/Amazon_Prime_Video/blob/main/Amazon_Prime_Video_Analysis.ipynb)
+* Now, we hava data measuring on how much a movive is consumedy the audienes per day. Amazon Prime Video is an Website based video watching paltform. 
+* The team are interested in predicting the populuarity of every single movie to figure out some ways to improve the watching times.
+* The best model we developed is random forest. According to the different metrics, the R-sqaure is 0.51
+* Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
+* The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have
+
+![](/images/plot_final.png)
