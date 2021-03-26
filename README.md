@@ -11,23 +11,23 @@
 # [Project 2: Dallas Child Poverty Analysis With Regression Approach](https://github.com/treerway/DallasPoverty/blob/master/%5BCPAL%5D%20Group%204%269%20Final%20Python%20Code.ipynb)
 * This project aims at identifying indicators that would represent the level to which family plays a role in child poverty in a given census tract. We aim at creating a score for all census tracts in Dallas. This score would tell us how well the census tract is doing in terms of family.
 * Generally, we expand our indicator from only one to five comprehensive indicators
-* The methodology of combining indicators we use is perason correlation and features importance of random forest 
+* The methodology of combining indicators we use is Pearson Correlation and features the importance of random forest 
 
 ![](/images/Map.png)
 
 # [Project 3: Customer Behaivor Prediction for Bank Campaign](https://github.com/treerway/Bank_Campagin/blob/main/projec1_classification.ipynb)
-* In this project, we are interested in predicting whethor one singe client will subscribe a long-term deposit product 
+* In this project, we are interested in predicting whether one single client will subscribe to a long-term deposit product 
 * in bank campaign conducted by marketing phone
-* we complete the EDA, data preprocessing, and use gridsearch to tuning the model to get the performence 
-* we use roc-auc score as the metrics to evaluate different model
+* we complete the EDA, data preprocessing, and use grid-search to tuning the model to get the performance 
+* we use the roc-auc score as the metrics to evaluate different model
 
 ![](/images/bak_cam.png)
 
 # [Project 4: Amazon Prime Videos Prediction](https://github.com/treerway/Amazon_Prime_Video/blob/main/Amazon_Prime_Video_Analysis.ipynb)
-* Now, we hava data measuring on how much a movive is consumedy the audienes per day. Amazon Prime Video is an Website based video watching paltform. 
-* The team are interested in predicting the populuarity of every single movie to figure out some ways to improve the watching times.
-* The best model we developed is random forest. According to the different metrics, the R-sqaure is 0.51
-* Due to the imporantance figure, the prime video team are supposed to introduce more highly_voted moive.
-* The position of single movive is another key factors to absorb the attention from audience. Based on our analysis, we have the below plot 
+* Now, we hava data measuring how much a movie is consumed by the audiences per day. Amazon Prime Video is a Website based video watching platform. 
+* The team is interested in predicting the popularity of every single movie to figure out some ways to improve the watching times.
+* The best model we developed is random forest. According to the different metrics, the R-square is 0.51
+* Due to the importance figure, the prime video team is supposed to introduce a more highly_voted movie.
+* The position of a single movie is another key factor to absorb the attention of the audience. Based on our analysis, we have the below plot 
 
 ![](/images/plot_final.png)
